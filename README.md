@@ -191,7 +191,7 @@ git tag -d v1.0
 git push origin :refs/tags/v1.0
 ```
 
-2️⃣4️⃣ CHERRY-PICK
+2️⃣4️⃣ CHERRY-PICK (it merge master with a specific commit of an any branch)
 ```
 git cherry-pick <commit>
 git cherry-pick <commit1> <commit2>
